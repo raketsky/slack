@@ -1,0 +1,15 @@
+{
+    "name": "raketsky/slack",
+    "type": "library",
+    "license": "BSD",
+    "require": {
+        "maknz/slack": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Raketsky\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
